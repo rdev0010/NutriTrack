@@ -9,8 +9,6 @@ With NutriTrack, users can log in with their profile details, complete a short q
 🔑 Clinician view with data-driven analysis  
 📱 Built with Kotlin, Jetpack Compose, Room DB, and MVVM architecture  
 
-NutriTrack was developed as part of a Monash University mobile app development project, showcasing robust mobile development practices with validation, persistence, and GenAI integration.
-
 ## Core Features:
 - Welcome Screen: Introduction and disclaimer.
 - Login & Registration: Users authenticate with their User ID and Phone Number (loaded from the dataset). First-time users set up their account with a password.
