@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rhea32570988</string>
+
+    <string name="action_go">Go</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder"></string>
+    <string name="results_placeholder">(Your tip will appear here)</string>
+
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_questionnaire">Questionnaire</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_insights_screen">InsightsScreen</string>
+    <string name="title_activity_nutri_coach_screen">NutriCoachScreen</string>
+    <string name="title_activity_settings_screen">SettingsScreen</string>
+    <string name="title_activity_register">Register</string>
+</resources>
