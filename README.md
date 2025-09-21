@@ -4,10 +4,10 @@ Welcome to NutriTrack, a mobile app designed to help users reflect on their eati
 
 With NutriTrack, users can log in with their profile details, complete a short questionnaire, and instantly view their Food Quality Score with a full category breakdown. Beyond individual tracking, the app also includes a clinician/admin mode, enabling deeper nutritional data insights for health professionals.
 
-📊 Track your dietary quality
-🥗 Explore personalised insights and breakdowns
-🔑 Clinician view with data-driven analysis
-📱 Built with Kotlin, Jetpack Compose, Room DB, and MVVM architecture
+📊 Track your dietary quality  
+🥗 Explore personalised insights and breakdowns  
+🔑 Clinician view with data-driven analysis  
+📱 Built with Kotlin, Jetpack Compose, Room DB, and MVVM architecture  
 
 NutriTrack was developed as part of a Monash University mobile app development project, showcasing robust mobile development practices with validation, persistence, and GenAI integration.
 
