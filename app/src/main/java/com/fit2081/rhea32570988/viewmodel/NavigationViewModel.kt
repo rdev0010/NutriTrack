@@ -3,6 +3,7 @@ package com.fit2081.rhea32570988.viewmodel
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
+import com.fit2081.rhea32570988.BuildConfig
 import com.fit2081.rhea32570988.model.entity.Fruit
 import com.fit2081.rhea32570988.model.entity.NutriCoachTips
 import com.fit2081.rhea32570988.model.entity.Patient
@@ -39,7 +40,7 @@ class NavigationViewModel(application: Application) : AndroidViewModel(applicati
     // Generative model instance for AI interactions
     private val generativeModel = GenerativeModel(
         modelName = "gemini-1.5-flash",
-        apiKey="AIzaSyDG7_PqRyQ1FTdJw8UlJnDdh0PchDB-q_E"
+        apiKey= BuildConfig.apiKey
     )
 
     // Admin key for validation
